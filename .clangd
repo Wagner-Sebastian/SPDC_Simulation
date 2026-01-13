@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-I../vcpkg/installed/x64-windows/include/"
+    - "-std=c++20"
